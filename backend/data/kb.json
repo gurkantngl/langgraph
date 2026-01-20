@@ -1,0 +1,44 @@
+[
+  {
+    "id": "kb-refund-1",
+    "title": "Iade sureci ve kosullari",
+    "category": "refund",
+    "body": "14 gun icinde iade hakki bulunur. Urun hasarsiz olmalidir."
+  },
+  {
+    "id": "kb-refund-2",
+    "title": "Iade kargo ucreti",
+    "category": "refund",
+    "body": "Ucretsiz kargo kampanyasi yoksa iade kargo ucreti musteriye aittir."
+  },
+  {
+    "id": "kb-payment-1",
+    "title": "Odeme hatalari ve cozumleri",
+    "category": "payment",
+    "body": "Kart limiti, banka onayi ve 3D Secure adimlari kontrol edilir."
+  },
+  {
+    "id": "kb-payment-2",
+    "title": "Taksitli odeme kosullari",
+    "category": "payment",
+    "body": "Taksit secenekleri kartin bankasina gore degisir."
+  },
+  {
+    "id": "kb-shipping-1",
+    "title": "Kargo ve teslimat bilgilendirmesi",
+    "category": "shipping",
+    "body": "Kargo cikisi 1-3 is gunu. Takip kodu e-posta ile paylasilir."
+  },
+  {
+    "id": "kb-shipping-2",
+    "title": "Adres degisikligi",
+    "category": "shipping",
+    "body": "Kargo cikisindan once adres degisikligi yapilabilir."
+  },
+  {
+    "id": "kb-general-1",
+    "title": "Sik sorulan sorular",
+    "category": "general",
+    "body": "Hesap, siparis ve teslimatla ilgili temel bilgiler."
+  }
+]
